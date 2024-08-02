@@ -26,3 +26,4 @@ $ ./yt-splay.sh
 ```
 ![](preview.png)
 *When performing the search, it shows the top 10 results.*
+![](tux.png)
