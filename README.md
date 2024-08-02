@@ -5,22 +5,22 @@ It is required to install:
 - [**mpv**](https://github.com/mpv-player/mpv).
 
 Clone the repository
-'''
+```
 $ git clone https://github.com/hpardo79/yt-splay.git
-'''
+```
 
 Go to directory
-'''
+```
 $ cd yt-splay
-'''
+```
 
 Make executable
-'''
+```
 $ chmod +x yt-splay.sh
-'''
+```
 
 Run
-'''
+```
 $ ./yt-splay.sh
-'''
+```
 ![](preview.png)
